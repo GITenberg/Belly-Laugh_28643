@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25267
     wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28643#Belly-Laugh
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-04-30'
 gutenberg_type: Text
